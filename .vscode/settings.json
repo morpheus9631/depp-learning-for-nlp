@@ -1,0 +1,18 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#50183E",
+        "titleBar.activeBackground": "#702157",
+        "titleBar.activeForeground": "#FDF8FB"
+    },
+    "terminal.integrated.env.windows": {
+        "PYTHONPATH": "${workspaceFolder}/src/main/python"
+    },
+    "python.analysis.extraPaths": [
+        "src/main/python",
+        "src/test/python"
+    ],
+    "python.autoComplete.extraPaths": [
+        "src/main/python",
+        "src/test/python"
+    ]
+}
